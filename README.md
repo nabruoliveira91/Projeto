@@ -1,16 +1,35 @@
-# Modelo de Ata para Projeto - UNINOVE
+# PLANEJAMENTO EM INFORMATICA
+<br/>
 
-[![CC BY-SA
-4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+## INSTITUIÇÃO UNINOVE - Campus Vila Prudente
+<br/>
 
-Este é um template LaTeX para o desenvolvimento das Atas do Projeto Integrador.
+## INTEGRANTES DO GRUPO 
+Ana Beatriz dos Santos - RA 3022200991
 
-## **Orientações**
+Roberta Martins da Costa - RA 3022200057
 
-Siga as orientações contidas no arquivo _Modelo de Ata.text_.
+Kleber Valizerde Siqueira - RA 3022101129
 
-## Licença
+Amanda Vitoria Leite da Silva - RA 3022104826
 
-Esta obra está licenciada com uma Licença [Creative Commons ShareAlike 4.0 Internacional](http://creativecommons.org/licenses/by-sa/4.0/).
+Guilherme Cavalcante - RA 3022101488
 
-[![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+Bruna Oliveira Silva - RA 3022200949
+
+Hiago de Queiroz Dareste - RA 3022102313
+
+Vinicius Da Silva Araújo - RA 3024106680
+
+Henrique Diniz Tavares da Silva- RA 3024106731
+
+Ronald Tomaz Cantor - RA 3024106730
+<br/>
+
+## PROFESSOR DO PROJETO
+Professor Edson Melo de Souza
+<br/>
+
+## Resumo do Projeto
+O objetivo deste trabalho é analisar os produtos mais vendidos na AMAZON entre os anos de 2015 e 2018. Para isso, serão apresentados gráficos que permitirão compreender o desempenho das vendas, identificando oportunidades de melhoria e otimização.
+<br/>
